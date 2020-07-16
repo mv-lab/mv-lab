@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7FdQDTJdEAo/v0/-999x-999.gif" alt="Girl in a jacket" width="400" height="225">
 
 <!--
 **mv-lab/mv-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
