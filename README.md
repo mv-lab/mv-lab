@@ -1,6 +1,30 @@
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7FdQDTJdEAo/v0/-999x-999.gif" alt="Girl in a jacket" width="400" height="225">
+<a href="#">
+<img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="400" height="200">
+</a>
+
+
+## Marcos V.
+
+_**Learning never exhausts the mind.**_
+
+![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
+Computer Science and Statistics Bsc student. <br>
+Interested in AI-Human interaction, Computer Vision, Medical Imaging, Deep Reinforcement Learning and Robotics.<br>
+I got my first computer in 2006. I have created my own programming language andcompiler, multiple AI applications and still. 
 
 <!--
+https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
+https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif
+https://github-readme-stats.vercel.app/api?username=mv-lab&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af
+
 **mv-lab/mv-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
