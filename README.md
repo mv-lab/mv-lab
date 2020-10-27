@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="400" height="200">
+<img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100">
 </a>
 
 
@@ -18,7 +18,7 @@ _**Learning never exhausts the mind.**_
 
 Computer Science and Statistics Bsc student. <br>
 Interested in AI-Human interaction, Computer Vision, Medical Imaging, Deep Reinforcement Learning and Robotics.<br>
-I got my first computer in 2006. I have created my own programming language andcompiler, multiple AI applications and still. 
+I got my first computer in 2006. I have created my own programming language and compiler, multiple Machine Learning and Deep Learning applications and I still feeling stupid about these topics, still to much to learn.
 
 <!--
 https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
