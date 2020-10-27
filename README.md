@@ -3,7 +3,6 @@
 
 <img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100">
 
-
 ![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
@@ -15,7 +14,9 @@
 
 Computer Science and Statistics Bsc student. <br>
 Interested in AI-Human interaction, Computer Vision, Medical Imaging, Deep Reinforcement Learning and Robotics.<br>
-I got my first computer in 2006. I have created my own programming language and compiler, multiple Machine Learning and Deep Learning applications and I still feeling stupid about these topics, still to much to learn.
+I got my first computer in 2006. I have created my own programming language and compiler.
+
+Playing with Machine Learning and Deep Learning applications and I still feeling stupid about these topics, still to much to learn.
 
 <!--
 https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
