@@ -16,7 +16,7 @@ Computer Science and Statistics Bsc student. <br>
 Interested in AI-Human interaction, Computer Vision, Medical Imaging, Deep Reinforcement Learning and Robotics.<br>
 I got my first computer in 2006. I have created my own programming language and compiler.
 
-Playing with Machine Learning and Deep Learning applications and I still feeling stupid about these topics, still to much to learn.
+Playing with Machine Learning and Deep Learning applications, there is still much to learn.
 
 <!--
 https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
