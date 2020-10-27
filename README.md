@@ -1,11 +1,8 @@
-<a href="#">
+
+### _Learning never exhausts the mind._
+
 <img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100">
-</a>
 
-
-## Marcos V.
-
-_**Learning never exhausts the mind.**_
 
 ![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
