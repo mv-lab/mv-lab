@@ -12,10 +12,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-Computer Science and Statistics Bsc student. <br>
-Interested in AI-Human interaction, Computer Vision, Medical Imaging, Deep Reinforcement Learning and Robotics.<br>
-I got my first computer in 2006. I have created my own programming language and compiler.
-
+BSc Computer Science and Statistics student. <br>
+Interested in AI-Human interaction, Deep Learning, Computer Vision, Medical Imaging and Robotics.<br>
+I got my first computer in 2004. I have created my own programming language and compiler. <br>
 Playing with Machine Learning and Deep Learning applications, there is still much to learn.
 
 <!--
