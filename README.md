@@ -1,21 +1,21 @@
 
 ### _Learning never exhausts the mind._
 
-<img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100">
+<!-- <img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100"> --> 
 
 ![](https://img.shields.io/badge/-Haskell-1572b6?style=flat-square&logo=Haskell&labelColor=1572b6)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
-BSc Computer Science and Statistics student. <br>
-Interested in AI-Human interaction, Deep Learning, Computer Vision, Medical Imaging and Robotics.<br>
+Computer Science and Statistics. <br>
+Interested in AI-Human interaction, Deep Learning, Computer Vision, Medical Imaging and Robots (all these topics might sound scattered, but in my mind are quite related).<br>
 I got my first computer in 2004. I have created my own programming language and compiler. <br>
 Playing with Machine Learning and Deep Learning applications, there is still much to learn.
+
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible" <br>
+> -- <cite>Richard Feynmann.</cite>
 
 <!--
 https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
