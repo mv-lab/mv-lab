@@ -9,13 +9,12 @@
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-Computer Science and Statistics. <br>
-Interested in AI-Human interaction, Deep Learning, Computer Vision, Medical Imaging and Robots (all these topics might sound scattered, but in my mind are quite related).<br>
-I got my first computer in 2004. I have created my own programming language and compiler. <br>
-Playing with Machine Learning and Deep Learning applications, there is still much to learn.
+Computer Science and Statistics background.<br>
+Interested in AI-Human interaction, Deep Learning, and Computer Vision Applications.<br>
+I got my first computer in 2004. I have created my own programming language and compiler.<br>
+Experience in Machine Learning competitions @ Kaggle (aka Nanashi) , DrivenData.
 
-> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible" <br>
-> -- <cite>Richard Feynmann.</cite>
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - R.P. Feynman"<br>
 
 <!--
 https://thumbs.gfycat.com/AchingClutteredEagle-size_restricted.gif
