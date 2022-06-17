@@ -3,9 +3,8 @@
 
 <!-- <img align="right" src="https://thumbs.gfycat.com/TemptingOptimisticAlbacoretuna-size_restricted.gif" width="150" height="100"> --> 
 
-
-PhD Student at the Julius-Maximilians-University of Würzburg, Computer Vision Lab led by Prof. Dr. Radu Timofte.<br>
-Kaggle Grandmaster & Data Scientist @ H2O.ai <br>
+PhD Doctoral Researcher in Computer Vision advised by Prof. Radu Timofte at University of Würzburg, Computer Vision Lab.<br>
+Kaggle Grandmaster & Data Scientist @ H2O.ai<br>
 My research focus is deep learning and computer vision: mobile AI, photorealism, image/video restoration/enhancement.
 
 > **"I learned very early the difference between knowing the name of something and knowing something."** *Richard Feynman*<br> 
